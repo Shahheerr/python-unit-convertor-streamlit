@@ -93,4 +93,4 @@ if quantity:
             st.success(f"✅ **Converted Value:** `{converted_value} {unit_to}`")
 
 st.markdown("---")
-st.markdown("<p style='text-align:center;'>🛠️ <b>Built with ❤️ using Streamlit</b> | 📧 Contact: [Your Email]</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align:center;'>🛠️ <b>Built with ❤️ using Streamlit</b> | 📧 Contact: jakeybooster@gmail.com</p>", unsafe_allow_html=True)
